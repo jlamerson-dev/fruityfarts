@@ -18,7 +18,7 @@ export default function Science() {
           </p>
         </div>
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '3rem' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '3rem' }}>
           <div>
             <div style={{ width: '40px', height: '4px', background: 'var(--primary-cyan)', marginBottom: '1rem', borderRadius: '2px' }}></div>
             <h3 style={{ color: '#ffffff', marginBottom: '1rem', fontSize: '1.4rem' }}>Intelligent Personalization</h3>
